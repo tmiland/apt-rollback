@@ -1,3 +1,5 @@
+[![Sponsor @tmiland](https://img.shields.io/badge/Sponsor-%40tmiland-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/tmiland)
+
 [![Build Status](https://travis-ci.org/lufte/apt-rollback.svg?branch=master)](https://travis-ci.org/lufte/apt-rollback)
 
 # apt-rollback
